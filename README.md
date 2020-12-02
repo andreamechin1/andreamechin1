@@ -4,7 +4,7 @@
 [Voici mon CV](https://github.com/andreamechin1/andreamechin1/blob/main/CV_Andrea_Mechin.pdf)
 
 <br>
-[<img width="2.5%" src="flaticon.com/svg/static/icons/svg/174/174857.svg" />](linkedin.com)
+[<img width="30px" src="flaticon.com/svg/static/icons/svg/174/174857.svg"/>]()
 
 <!--
 **andreamechin1/andreamechin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
