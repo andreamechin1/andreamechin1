@@ -4,7 +4,7 @@
 [Voici mon CV](https://github.com/andreamechin1/andreamechin1/blob/main/CV_Andrea_Mechin.pdf)
 
 <br>
-<img width="30px" src="https://jardinage.lemonde.fr/images/dossiers/2018-03/sphynx-082018.jpg"/>
+<img width="70px" src="https://jardinage.lemonde.fr/images/dossiers/2018-03/sphynx-082018.jpg"/>
 
 <!--
 **andreamechin1/andreamechin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
