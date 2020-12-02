@@ -4,7 +4,7 @@
 [Voici mon CV](https://github.com/andreamechin1/andreamechin1/blob/main/CV_Andrea_Mechin.pdf)
 
 <br>
-[<img width="60px" src="upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />](linkedin.com)
+[<img width="60px" src="upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />](https://www.linkedin.com/in/andr%C3%A9a-m%C3%A9chin-ba86bb181/)
 <!--
 **andreamechin1/andreamechin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
