@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<h2> Salut moi c'est Andréa ! Et je suis en prépa expert en stratégie digitale !! </h2>
 <!--
 **andreamechin1/andreamechin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
